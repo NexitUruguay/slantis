@@ -6,3 +6,7 @@
 	path = odoo_l10n_uy
 	url = git@bitbucket.org:blueorangegroup/odoo_l10n_uy.git
 	branch = 15.0
+[submodule "odoo_customization_slantis"]
+	path = odoo_customization_slantis
+	url = git@bitbucket.org:blueorangegroup/odoo_customization_slantis.git
+	branch = 17.0
