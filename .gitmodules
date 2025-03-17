@@ -1,12 +1,16 @@
 [submodule "odoo_addons_others_uy"]
 	path = odoo_addons_others_uy
 	url = git@bitbucket.org:blueorangegroup/odoo_addons_others_uy.git
-	branch = 15.0
+	branch = 17.0
 [submodule "odoo_l10n_uy"]
 	path = odoo_l10n_uy
 	url = git@bitbucket.org:blueorangegroup/odoo_l10n_uy.git
-	branch = 15.0
+	branch = 17.0
 [submodule "odoo_customization_slantis"]
 	path = odoo_customization_slantis
 	url = git@bitbucket.org:blueorangegroup/odoo_customization_slantis.git
-	branch = 17.0
+	branch = develop_17.0
+[submodule "SLANTIS_REQUESTS_MODULE"]
+	path = SLANTIS_REQUESTS_MODULE
+	url = https://github.com/AgustinARslantis/SLANTIS_REQUESTS_MODULE.git
+	branch = main
