@@ -10,8 +10,3 @@
 	path = odoo_customization_slantis
 	url = git@bitbucket.org:blueorangegroup/odoo_customization_slantis.git
 	branch = develop_17.0
-
-[submodule "AgustinARslantis/slantis_requests_module_"]
-	path = AgustinARslantis/slantis_requests_module_
-	url = git@github.com:AgustinARslantis/slantis_requests_module_.git
-	branch = main
