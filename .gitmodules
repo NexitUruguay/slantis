@@ -14,7 +14,3 @@
 	path = slantis_requests_module_
 	url = git@github.com:AgustinARslantis/slantis_requests_module_.git
 	branch = 17.0
-[submodule "so_related_projects_module"]
-	path = so_related_projects_module
-	url = git@github.com:AgustinARslantis/so_related_projects_module.git
-	branch = 17.0
