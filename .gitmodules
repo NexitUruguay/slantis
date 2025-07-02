@@ -17,4 +17,4 @@
 [submodule "so_related_projects_module"]
 	path = so_related_projects_module
 	url = git@github.com:AgustinARslantis/so_related_projects_module.git
-	branch = 17.0
+	branch = main
