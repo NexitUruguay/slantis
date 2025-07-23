@@ -14,3 +14,8 @@
 	path = slantis_requests_module_
 	url = git@github.com:AgustinARslantis/slantis_requests_module_.git
 	branch = 17.0
+[submodule "pr_related_sales_orders_module"]
+	path = pr_related_sales_orders_module
+	url = git@github.com:AgustinARslantis/pr_related_sales_orders_module.git
+	branch = main
+
