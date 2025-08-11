@@ -22,3 +22,7 @@
 	path = pr_related_sales_orders_module
 	url = git@github.com:AgustinARslantis/pr_related_sales_orders_module.git
 	branch = main
+[submodule "hr_employee_time_off_days"]
+	path = hr_employee_time_off_days
+	url = git@github.com:AgustinARslantis/hr_employee_time_off_days.git
+	branch = main
