@@ -22,3 +22,7 @@
 	path = so_related_projects_module
 	url = git@github.com:AgustinARslantis/so_related_projects_module.git
 	branch = main
+[submodule "odoo_l10n"]
+	path = odoo_l10n
+	url = git@bitbucket.org:blueorangegroup/odoo_l10n.git
+	branch = 17.0
