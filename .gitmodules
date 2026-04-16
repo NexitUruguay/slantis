@@ -26,3 +26,7 @@
 	path = odoo_l10n
 	url = git@bitbucket.org:blueorangegroup/odoo_l10n.git
 	branch = 17.0
+[submodule "slantis_timesheet_filter"]
+	path = slantis_timesheet_filter
+	url = git@github.com:AgustinARslantis/slantis_timesheet_filter.git
+	branch = PRODUCCION
