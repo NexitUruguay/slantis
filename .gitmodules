@@ -37,3 +37,7 @@
 	path = odoo_l10n
 	url = git@bitbucket.org:blueorangegroup/odoo_l10n.git
 	branch = develop_17.0
+[submodule "odoo_addons_third_party"]
+	path = odoo_addons_third_party
+	url = git@bitbucket.org:blueorangegroup/odoo_addons_third_party.git
+	branch = develop_17.0
