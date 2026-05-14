@@ -30,3 +30,7 @@
 	path = slantis_timesheet_filter
 	url = git@github.com:AgustinARslantis/slantis_timesheet_filter.git
 	branch = PRODUCCION
+[submodule "odoo_addons_third_party"]
+	path = odoo_addons_third_party
+	url = git@bitbucket.org:blueorangegroup/odoo_addons_third_party.git
+	branch = 17.0
