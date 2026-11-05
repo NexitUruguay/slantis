@@ -5,7 +5,7 @@
 [submodule "odoo_l10n_uy"]
 	path = odoo_l10n_uy
 	url = git@bitbucket.org:blueorangegroup/odoo_l10n_uy.git
-	branch = 17.0
+	branch = develop_17.0
 [submodule "odoo_customization_slantis"]
 	path = odoo_customization_slantis
 	url = git@bitbucket.org:blueorangegroup/odoo_customization_slantis.git
@@ -33,11 +33,15 @@
 
 
 
-[submodule "odoo_l10n"]
-	path = odoo_l10n
-	url = git@bitbucket.org:blueorangegroup/odoo_l10n.git
-	branch = develop_17.0
 [submodule "odoo_addons_third_party"]
 	path = odoo_addons_third_party
 	url = git@bitbucket.org:blueorangegroup/odoo_addons_third_party.git
 	branch = develop_17.0
+[submodule "odoo_l10n_nexit"]
+	path = odoo_l10n_nexit
+	url = git@bitbucket.org:blueorangegroup/odoo_l10n_nexit.git
+	branch = develop_17.0
+[submodule "slantis_timesheet_filter"]
+	path = slantis_timesheet_filter
+	url = git@github.com:AgustinARslantis/slantis_timesheet_filter.git
+	branch = PRODUCCION
